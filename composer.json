@@ -1,0 +1,19 @@
+{
+    "name": "saaeen/tiny-php",
+    "description": "A simple PHP framework following the MVC pattern, designed for fast and uncomplicated web development.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tiny\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saaeen-Grant",
+            "email": "official.saaeengrant@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
